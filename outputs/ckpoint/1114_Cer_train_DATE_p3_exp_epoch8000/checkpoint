@@ -1,0 +1,2 @@
+model_checkpoint_path: "/home/netlab/tiancan/DATE_exp/outputs/ckpoint/1114_Cer_train_DATE_p3_exp_epoch8000/ckpt"
+all_model_checkpoint_paths: "/home/netlab/tiancan/DATE_exp/outputs/ckpoint/1114_Cer_train_DATE_p3_exp_epoch8000/ckpt"

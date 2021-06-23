@@ -40,7 +40,7 @@ DATE: outputs/log/
 Some baselines: outputs/objvals/
 
 # Paper
-Nan Geng, Mingwei Xu, Yuan Yang, Chenyi Liu, Jiahai Yang, Qi Li, and Shize Zhang, "Distributed and Adaptive Traffic Engineering with Deep Reinforcement Learning" (under review)
+Nan Geng, Mingwei Xu, Yuan Yang, Chenyi Liu, Jiahai Yang, Qi Li, and Shize Zhang, "Distributed and Adaptive Traffic Engineering with Deep Reinforcement Learning" (IWQoS 2021)
 
 
 
